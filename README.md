@@ -1,2 +1,2 @@
-# zim-mcp
-An MCP server for interacting with a ZIM archive
+# kiwix-mcp
+An MCP server for interacting with a kiwix instance
